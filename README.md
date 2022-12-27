@@ -1,3 +1,4 @@
+```
  ▀ █ █▀█ ▀▀█ █▀█ █▀█ █ ▀
  █ █ █▄█ █ █ █ █ █ █ █▄█
  █ █ █ ▄▄▄▄█ █▄█ █ ▀ ▀ █
@@ -16,3 +17,20 @@
       uprough.net
  
    nfo logo by goto80
+```
+
+## Build
+You will need:
+  * gcc
+  * GNU binutils
+  * RASM
+  * Arkos Tracker 2
+
+Type the following to re-build the demo:
+```
+make RASM=path_to_rasm_bin RASM_DIR=rasm_dir
+```
+
+## Download links
+  * [demozoo](https://demozoo.org/productions/303096/)
+  * [pouet](https://www.pouet.net/prod.php?which=90461)
