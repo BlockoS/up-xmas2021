@@ -1,0 +1,10 @@
+monitor_NL      equ 0x0009
+monitor_ST1     equ 0x00AD
+monitor_QER     equ 0x0107
+monitor_LOAD    equ 0x0111
+monitor_QRDD    equ 0x04F8
+monitor_QRDI    equ 0x04d8
+monitor_MSGQ2   equ 0x09A0
+monitor_NAME    equ 0x10F1
+monitor_EXADR   equ 0x1106
+monitor_DSPXY   equ 0x1171 

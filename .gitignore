@@ -1,0 +1,6 @@
+*.o
+_data
+*.m12
+*.bin
+*.wav
+*.sym
